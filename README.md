@@ -1,7 +1,7 @@
-The Waterfox source code is a specialised modification of the Mozilla platform, designed for privacy and user choice in mind. You should be able to
-install it and compile Waterfox without any issues. Other modifications and patches that are more
+The Flashyfox (based on the Waterfox source code) source code is a specialised modification of the Mozilla platform, designed for compatibility with addons like Flash in mind. You should be able to
+install it and compile Flashyfox without any issues. Other modifications and patches that are more
 upstream have been implemented as well to fix any compatibility/security issues that Mozilla may 
-lag behind in implementing (usually due to not being high priority). High request features removed by Mozilla but wanted by users are retained (if they aren't removed due to security).
+lag behind in implementing (usually due to not being high priority). All Waterfox/Firefox features wanted by users are retained.
 
 ### Features
 
@@ -20,14 +20,10 @@ lag behind in implementing (usually due to not being high priority). High reques
 * Locale selector in about:preferences > General (further improved by PandaCodex)
 
 
-Waterfox is released under the Mozilla Public License Version 2.0:
+Flashyfox is released under the Mozilla Public License Version 2.0:
 
 	https://www.mozilla.org/MPL/2.0/
 	
-Waterfox binaries are kindly being redistributed free of charge by:
-
-  [<img src="https://s3-us-west-2.amazonaws.com/elof/stackpath-logo-reversed.png" style="width:300px;">](https://www.stackpath.com/?utm_campaign=Partner%20Display&utm_source=Partner%20Display&utm_medium=WaterFox)
-
 From Mozilla's Readme.txt:
 
 An explanation of the Mozilla Source Code Directory Structure and links to
